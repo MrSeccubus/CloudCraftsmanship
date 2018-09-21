@@ -9,7 +9,7 @@
 >
 > ### I recognize that, like any other technology, cloud technology is not a silver bullet.
 >
-> ### I recognize that not all cloud solutions are created equally. I will do my best to select the [solution](explained/selection.md) that best fit my specific situation.
+> ### I recognize that not all cloud solutions are created equally. I will do my best to [select](explained/selection.md) the solution that best fits my specific situation.
 > 
 > ### I recognize that, in the cloud, I will have to [trust](explained/trust.md) and rely on the abilities of the provider. I will do my best to validate this trust.
 >
