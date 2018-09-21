@@ -1,8 +1,5 @@
----
-layout: home
----
-
 # The Cloud Craftsmanship Manifesto
+[![flamer a CC NC SA image by Ola Erik Blæsterdalen](images/flamer.png)](https://www.flickr.com/photos/83029840@N00/2333867300/)
 
 > <img src="images/openquote.png" width="80" height="60"/>
 
@@ -10,9 +7,11 @@ layout: home
 >
 > ### I recognize that cloud technologies, if applied correctly, offer great benefits in terms of availability, reliability, scalability and agility.
 >
-> ### I recognize that, like any other technology, cloud technology is not a silver bullit.
+> ### I recognize that, like any other technology, cloud technology is not a silver bullet.
 >
-> ### I recognize that the use of [cloud technology implies a level of trust in the provider](explained/trust.md) of said technology, I will do my best to validate that trust.
+> ### I recognize that not all cloud solutions are created equally. I will do my best to select the [solution](explained/selection.md) that best fit my specific situation.
+> 
+> ### I recognize that, in the cloud, I will have to [trust](explained/trust.md) and rely on the abilities of the provider. I will do my best to validate this trust.
 >
 > ### I recognize that effective, efficient and secure usage of cloud technologies is a responsibility that is shared between the user and the provider.
 >
@@ -34,6 +33,3 @@ layout: home
 
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
-
-
