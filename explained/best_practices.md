@@ -1,3 +1,4 @@
+{% include_relative ../header.md %}
 Best practices
 ===
 > I intend to read, understand and/or use the best practices and tooling recommended by the provider to the greatest extend possible in my situation. 

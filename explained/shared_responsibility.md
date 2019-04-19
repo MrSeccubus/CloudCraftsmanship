@@ -1,3 +1,4 @@
+{% include_relative ../header.md %}
 Shared responsibility
 ===
 

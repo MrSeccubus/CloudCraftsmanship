@@ -1,3 +1,4 @@
+{% include_relative ../header.md %}
 # Craftsmanship
 
 > I am a craftsman and I use cloud technologies, because I apply my craftmanship to cloud technologies, I am a Cloud Craftsman.
