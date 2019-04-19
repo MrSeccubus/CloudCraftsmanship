@@ -1,1 +1,1 @@
-[Sign the manifesto](/sign.md) \| [See who signed](/signatures/index.md)
+[Home](/) \| [Sign the manifesto](/signatures/sign.html) \| [See who signed](/signatures/index.html)
