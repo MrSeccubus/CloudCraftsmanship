@@ -3,3 +3,13 @@ title: Cloud Craftsmanship
 description: The application of obtained skills, knowledge and aptitude laced with some tradition, perfectly applies to delivering high quality IT service with cloud technologies.
 show_downloads: false
 google_analytics: UA-9241787-2
+
+repository: seccubus/CloudCraftsmanshipManifesto
+markdown: kramdown
+
+plugins:
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji
