@@ -1,11 +1,12 @@
 Trust
 =====
+[![Trust dive. a CC NC image by Jeff Budgell](../images/trust.jpg)](https://www.flickr.com/photos/54139148@N06/7599235018/)
 
 Using a cloud technology implies a level of trust in its provider and the abilities of the provider. But, as Ronald Reagan put it:
 
 > Trust, but verify
 
-Verification of trust of a cloud provider is not an easy task. 
+Verification of trust of a cloud provider is not an easy task. Trust comes with experience, but how to gain trust before you have experience? In that case you can rely on a statement of a reliable party that has either measured or expience the trustworthyness of a party. This is called assurance.
 
 The following list is a list of globally recognized frameworks/standards/reports that can help you in obtaining assurance on a cloud provider.
 
@@ -26,13 +27,13 @@ There are many more local, regional and industry frameworks, standards, reports,
 Many cloud providers have created dedicated websites that will list the various standards etc they comply with. Below is a (non exclusive/incomplete) list:
 
 * Amazon AWS
-  - https://aws.amazon.com/compliance/ 
-  - https://aws.amazon.com/security/
+  - [https://aws.amazon.com/compliance/](https://aws.amazon.com/compliance/)
+  - [https://aws.amazon.com/security/](https://aws.amazon.com/security/)
 * Microsoft Azure
-  - https://www.microsoft.com/en-us/trustcenter/compliance/default.aspx
-  - https://azure.microsoft.com/en-us/services/security-center/
+  - [https://www.microsoft.com/en-us/trustcenter/compliance/default.aspx](https://www.microsoft.com/en-us/trustcenter/compliance/default.aspx)
+  - [https://azure.microsoft.com/en-us/services/security-center/](https://azure.microsoft.com/en-us/services/security-center/)
 * Google
-  - https://cloud.google.com/security/
+  - [https://cloud.google.com/security/](https://cloud.google.com/security/)
 * Akamai
-  - https://www.akamai.com/uk/en/about/compliance/
+  - [https://www.akamai.com/uk/en/about/compliance/](https://www.akamai.com/uk/en/about/compliance/)
 

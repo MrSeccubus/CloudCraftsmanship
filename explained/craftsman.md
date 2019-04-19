@@ -1,5 +1,7 @@
 # Craftsmanship
 
+> I am a craftsman and I use cloud technologies, because I apply my craftmanship to cloud technologies, I am a Cloud Craftsman.
+ 
 While the term craftsmanship and crafts is sometimes associated with with quint and outdates activities such as cheese 
 making or basket knitting, we feel that the paradigm of applying obtained skills, knowledge and aptitude as well as a
 little tradition perfectly applies to delivering high quality IT services.

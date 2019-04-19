@@ -1,4 +1,4 @@
-# The Cloud Craftsmanship Manifesto
+<!-- <span class='header'>[Sign the manifesto](/sign) | [See who signed](/signatures)</span> -->
 [![flamer a CC NC SA image by Ola Erik Blæsterdalen](images/flamer.png)](https://www.flickr.com/photos/83029840@N00/2333867300/)
 
 > ### <img src="images/openquote.png" width="80" height="60"/> I am a craftsman and I use cloud technologies, because I apply my [craftmanship](explained/craftsman.md) to cloud technologies, I am a Cloud Craftsman. <span class='small'>[More...](explained/craftsman.md)</span>
@@ -7,15 +7,16 @@
 >
 > ### I recognize that, like any other technology, cloud technology is not a silver bullet.
 >
-> ### I recognize that not all cloud solutions are created equally. I will do my best to select solutions that fits my specific situation. <small><small><small>[More...](explained/selection.md)</small></small></small>
+> ### I recognize that not all cloud solutions are created equally. I will do my best to select solutions that fits my specific situation. <!--<span class='small'>[More...](explained/selection.md)</span>-->
 > 
 > ### I recognize that, in the cloud, I will have to trust and rely on the abilities of the provider. I will do my best to validate this trust. <span class='small'>[More...](explained/trust.md)</span>
 >
-> ### I recognize that effective, efficient and secure usage of cloud technologies is a responsibility that is shared between the user and the provider.
+> ### I recognize that effective, efficient and secure usage of cloud technologies is a responsibility that is shared between the user and the provider. <span class='small'>[More...](explained/shared_responsibility.md)</span>
 >
-> ### I recognize that effective, efficient and secure usage of cloud technologies is in the interest of both the user and provider.
+> ### I recognize that effective, efficient and secure usage of cloud technologies is in the interest of both the user and provider. <span class='small'>[More...](explained/mutual_interest.md)</span>
 >
-> ### I intend to read, understand and/or use the best practices and tooling recommended by the provider to the greatest extend possible in my situation.
+> ### I intend to read, understand and/or use the best practices and tooling recommended by the provider to the greatest extend possible in my situation. <span class='small'>[More...](explained/best_practices)</span>
+
 >
 > ### I intend to stand on the shoulders of giants. Many before us have developed tools and practices for the effective, efficient and secure usage of cloud technologies. I will adopt their work as much as I can. If I can improve and give back to the community I will allow others to stand on my shoulders as well.
 >
