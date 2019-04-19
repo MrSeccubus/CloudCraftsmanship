@@ -1,0 +1,35 @@
+- text: Homne
+  url: /
+
+#- text: About
+#  subitems:
+#  - text: What is Seccubus?
+#    url: /about/what-is-seccubus/
+#  - text: About the authors
+#    url: /about/about-the-authors/
+#  - text: About the name
+#    url: /about/about-the-name/
+#
+#- text: Documentation
+#  url: /documentation
+#
+#- text: Slack channel
+#  url: /documentation/34-slack-channel
+#  subitems:
+#    - text: Visit
+#      url: https://seccubus.slack.com
+#
+#
+#- text: GitHub
+#  url: https://github.com/schubergphilis/Seccubus_v2/
+#  subitems:
+#  - text: Source
+#    url: https://github.com/schubergphilis/Seccubus_v2/
+#  - text: Issue tracker
+#    url: https://github.com/schubergphilis/Seccubus_v2/issues
+#  - text: Download
+#    url: https://github.com/schubergphilis/Seccubus_v2/releases
+#
+#- text: Download
+#  url: https://github.com/schubergphilis/Seccubus_v2/releases
+#  button: true
