@@ -1,4 +1,4 @@
-{% include_relative ../header.md %}
+{% include header.md %}
 Trust
 =====
 [![Trust dive. a CC NC image by Jeff Budgell](../images/trust.jpg)](https://www.flickr.com/photos/54139148@N06/7599235018/)

@@ -1,4 +1,5 @@
-{% include_relative header.md %}
+{% include header.md %}
+
 [![flamer a CC NC SA image by Ola Erik Blæsterdalen](images/flamer.png)](https://www.flickr.com/photos/83029840@N00/2333867300/)
 
 > ### <img src="images/openquote.png" width="80" height="60"/> I am a craftsman and I use cloud technologies, because I apply my [craftmanship](explained/craftsman.md) to cloud technologies, I am a Cloud Craftsman. <span class='small'>[More...](explained/craftsman.md)</span>

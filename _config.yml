@@ -5,7 +5,6 @@ show_downloads: false
 google_analytics: UA-9241787-2
 
 repository: seccubus/CloudCraftsmanshipManifesto
-markdown: kramdown
 
 plugins:
 - jekyll-github-metadata

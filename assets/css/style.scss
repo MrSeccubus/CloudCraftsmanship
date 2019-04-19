@@ -4,9 +4,10 @@
 @import "{{ site.theme }}";
 
 .small {
-	font-size : small
+	font-size : small;
 }
 
-.header {
-	font-size : small
+p.header {
+	font-size : small;
+	text-align: center;
 }

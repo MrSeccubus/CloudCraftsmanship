@@ -3,3 +3,6 @@ slate/
 .sass-cache/
 .DS_Store
 .*.swp
+.bundle-cache/
+.jekyll-metadata
+Gemfile.lock
