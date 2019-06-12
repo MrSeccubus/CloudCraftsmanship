@@ -3,11 +3,17 @@ Trust
 =====
 [![Trust dive. a CC NC image by Jeff Budgell](../images/trust.jpg)](https://www.flickr.com/photos/54139148@N06/7599235018/)
 
-Using a cloud technology implies a level of trust in its provider and the abilities of the provider. But, as Ronald Reagan put it:
+Using a cloud technology implies a level of trust in its provider and the abilities of the provider. But, as Ronald Reagan once put it:
 
 > Trust, but verify
 
-Verification of trust of a cloud provider is not an easy task. Trust comes with experience, but how to gain trust before you have experience? In that case you can rely on a statement of a reliable party that has either measured or expience the trustworthyness of a party. This is called assurance.
+Verification of trust of a cloud provider is not an easy task. Trust comes with experience, but how to gain trust before you have experience? In that case you can rely on a statement of a reliable party that has either measured or expience the trustworthyness of a party. This is called assurance. 
+
+Resources
+---------
+
+### Frameworks/standards
+
 
 The following list is a list of globally recognized frameworks/standards/reports that can help you in obtaining assurance on a cloud provider.
 
@@ -24,6 +30,8 @@ The following list is a list of globally recognized frameworks/standards/reports
   - [SOC 3](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report.html) - General Controls
 
 There are many more local, regional and industry frameworks, standards, reports, laws and regulations. Listing them all would go way beyond the scope of this article. 
+
+### Provider reports
 
 Many cloud providers have created dedicated websites that will list the various standards etc they comply with. Below is a (non exclusive/incomplete) list:
 
