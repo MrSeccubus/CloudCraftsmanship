@@ -12,7 +12,7 @@ If you don't know how to use git...
 ---
 * [Create a GitHub account](https://www.wikihow.com/Create-an-Account-on-GitHub) (If you dont have one)
 * Sign into GitHub
-* [Edit this file](https://github.com/seccubus/CloudCraftsmenship/edit/master/signatures/index.md)
+* [Edit this file](https://github.com/MrSeccubus/CloudCraftsmanship/edit/master/signatures/index.md)
 * Add your data to the bottom of the list like this:
 
 ```
