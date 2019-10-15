@@ -1,4 +1,3 @@
-{% include header.md %}
 # Craftsmanship
 
 > #### I am a craftsman. I use cloud technologies, because I apply my craftmanship to cloud technologies, I am a Cloud Craftsman. 
