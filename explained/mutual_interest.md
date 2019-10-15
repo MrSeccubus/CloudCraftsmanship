@@ -1,4 +1,3 @@
-{% include header.md %}
 Mutual interest
 ===
 > I recognize that effective, efficient and secure usage of cloud technologies is in the interest of both the user and provider.

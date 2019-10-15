@@ -1,4 +1,3 @@
-{% include header.md %}
 
 How to sign the manifesto?
 ===
